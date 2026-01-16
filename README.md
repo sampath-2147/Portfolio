@@ -1,4 +1,4 @@
-# Sampath Neobank Portfolio (Tailwind + Purple/White)
+# Sampath  Portfolio (Tailwind + Purple/White)
 
 ## Run locally (VS Code / VS Code Insiders)
 1. Open this folder in VS Code
